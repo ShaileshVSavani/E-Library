@@ -92,7 +92,7 @@ e-library/
 
 ## Deployment
 
-To deploy the application, you can use platforms like [Vercel](https://vercel.com/) or [Netlify](https://www.netlify.com/) which support React apps.
+To deploy the application, you can use platforms like [Vercel](https://e-library-livid.vercel.app/) or [Netlify](https://www.netlify.com/) which support React apps.
 
 1. Build the app for production:
 
