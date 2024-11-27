@@ -1,36 +1,3 @@
-// import React, { useState } from "react";
-
-// const Filters = ({ onFilter }) => {
-//   const [search, setSearch] = useState("");
-
-//   const handleSearch = (e) => {
-//     e.preventDefault();
-//     onFilter(search);
-//   };
-
-//   return (
-//     <form onSubmit={handleSearch} className="mb-6">
-//       <input
-//         type="text"
-//         placeholder="Search by title..."
-//         value={search}
-//         onChange={(e) => setSearch(e.target.value)}
-//         className="p-2 border rounded w-full"
-//       />
-//       <button
-//         type="submit"
-//         className="mt-2 w-full p-2 bg-blue-500 text-white rounded hover:bg-blue-700"
-//       >
-//         Search
-//       </button>
-//     </form>
-//   );
-// };
-
-// export default Filters;
-
-
-
 
 import React, { useState } from "react";
 
