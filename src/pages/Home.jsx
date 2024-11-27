@@ -59,7 +59,9 @@ const Home = () => {
 
   return (
     <div className="max-w-5xl mx-auto p-4">
-      <h1 className="text-4xl font-bold text-center mb-8">E-Library Management</h1>
+       <h1 className=" p-3 text-5xl font-semibold text-center bg-gradient-to-r from-teal-500 to-teal-600 bg-clip-text text-transparent mb-8">
+    E-Library Management
+  </h1>
       <Filters onFilter={handleSearch} />
       {loading ? (
        
